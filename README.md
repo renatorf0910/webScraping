@@ -22,5 +22,5 @@ pip install -r requirements.txt
 unzip env.zip
 # IF YOU ARE ON WINDOWS YOU CAN RIGHT CLICK AND EXTRACT
 
-# RUN PYTHON F1ILE
+# RUN PYTHON FILE
 python main.py
