@@ -1,6 +1,5 @@
 Welcome to my test about web scraping
-
-to install the tools use:
+To install the tools use:
 
 # LINUX/MAC-OS
 python3 -m venv venv
